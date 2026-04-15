@@ -1,6 +1,6 @@
 # **Practice Logistic Regrssion**
 
-This repo is for me practice to train model with algorithm logistic regression.
+This repo is for study and practice to train model with algorithm logistic regression.
 
   
 
