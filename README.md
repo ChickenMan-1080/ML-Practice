@@ -1,4 +1,4 @@
-# **Practice Logistic Regrssion**
+# **Machine Learning Practice**
 
 This repo is for study and practice to train model with algorithm logistic regression.
 
